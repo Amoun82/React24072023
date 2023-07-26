@@ -1,0 +1,8 @@
+p{
+    cursor: pointer ;
+    background-color: blue;
+}
+
+.text {
+    text-decoration: line-through;
+}
